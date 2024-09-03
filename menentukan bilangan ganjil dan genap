@@ -1,0 +1,17 @@
+Mulai
+Input: Terima bilangan 
+𝑁
+N
+Proses:
+Hitung sisa hasil bagi bilangan 
+𝑁
+N dibagi 2.
+Jika sisa hasil bagi (remainder) sama dengan 0, maka bilangan 
+𝑁
+N adalah genap.
+Jika sisa hasil bagi tidak sama dengan 0, maka bilangan 
+𝑁
+N adalah ganjil.
+Output:
+Jika bilangan genap, tampilkan "Bilangan ini adalah genap".
+Jika bilangan ganjil, tampilkan "Bilangan ini adalah ganjil".
